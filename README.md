@@ -1,5 +1,5 @@
 # BlockChain-v1.2
-Blockchain v1.2 is a BTC lookup script. The script can be used to track any bitcoin address including total transactions on the Given BTC address & Total Received amount etc.
+Blockchain v1.2 is a BTC lookup script written in Bash. The script can be used to track any Bitcoin address including total transactions, total received amount, final amount etc.
 
 # Youtube
 https://www.youtube.com/watch?v=hB2uk_sllN4&feature=youtu.be
